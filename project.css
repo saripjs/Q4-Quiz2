@@ -1,0 +1,69 @@
+
+			header{
+         	 background: rgb(255,255,255);
+background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(181,181,255,1) 35%, rgba(92,227,255,1) 100%);
+         	   border: 2px solid black;
+          	  padding: 5px;
+           	margin-bottom: 20px;
+           	 font-family: Garamond;
+                  	
+			}
+
+			body {
+				background-image: url(https://wallpapers.com/images/hd/aesthetic-cloud-background-74w1g5k8gfuisjyp.jpg);
+			}
+
+			.box  {
+				border:1px solid black;
+				width: 300px ;
+				height:300px;
+				display: inline-block;
+				text-align: center;
+				border-radius: 30px;
+				border-radius: 40px;
+			}
+
+			.hill {
+				border:1px solid black;
+				width: 300px ;
+				height:300px;
+				display: inline-block;
+				text-align: center;
+				border-radius: 30px;
+				border-radius: 40px;
+				margin-block: 5px;
+				background-image: url(https://lh5.googleusercontent.com/p/AF1QipNtIeGtsA_OoOiLyp0SRnnfK_AgJe61YK2vLwdC=w408-h272-k-no);
+
+			}
+
+			.bag {
+				border:1px solid black;
+				width: 300px ;
+				height:300px;
+				display: inline-block;
+				text-align: center;
+				border-radius: 30px;
+				border-radius: 40px;
+				margin-block: 5px;
+				background-image: url(https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/5c/34/e3/caption.jpg?w=1200&h=-1&s=1);
+
+			}
+
+			.nido {
+				border:1px solid black;
+				width: 300px ;
+				height:300px;
+				display: inline-block;
+				text-align: center;
+				border-radius: 30px;
+				border-radius: 40px;
+				margin-block: 5px;
+				background-image: url(https://a.cdn-hotels.com/gdcs/production13/d1585/20120d80-bf76-4553-89f4-0098f94423d8.jpg?impolicy=fcrop&w=800&h=533&q=medium);
+
+			}
+
+
+
+			img {
+				width: 250px;
+			}
